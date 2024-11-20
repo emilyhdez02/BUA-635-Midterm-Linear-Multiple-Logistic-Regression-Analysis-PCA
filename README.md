@@ -91,9 +91,20 @@ Application of PCA to reduce dimensionality and analyze variance.
 Gained practical experience in statistical programming and interpretation of real-world datasets.
 
 ## 📂 Repository Contents
-`Midterm_Analysis.R`: R script containing the code for all analyses.
+`Part1SimpleRegHondaPrices.R`: R script containing the code for Predicting Honda Civic Prices.
+
+`Part2MultiRegCustSpend.R`: R script containing the code for Multiple Regression Analysis for Customer Spending.
+
+`Part3PCAHeartHealth.R`: R script containing the Principal Components Analysis (PCA) code for Heart Health.
+
+`Part4LogiRegGradAdmi.R`: R script containing the code for Logistic Regression for Graduate School Admissions.
+
+`MidtermPart4TrainData.csv`: CSV file of output for Part 4 .
 
 `Midterm_Report.docx`: Final report with R outputs and detailed explanations.
 
 `Datasets/`: Folder containing CSV files for the problems (HondaCivic.csv, Tacko.csv, Heart.csv, Admission.csv).
+
+## 🔗 Acknowledgments
+This project was completed as part of a Big Data & Data Mining course under the guidance of Professor Vakil. Special thanks for the detailed feedback on hypothesis framing and model evaluation.
 
